@@ -1,5 +1,5 @@
 #!/usr/bin/env python
-
+# Terminal_Network_Server,PORT 6006 , IP: LOCALHOST
 # Title : CiscoRouter_Honeypot
 # Author: BENSAAD Anouar
 
